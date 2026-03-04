@@ -1,0 +1,33 @@
+
+Decleration: es cuando vamos a crear algo que vamos a refenciar en un futuro
+-let
+-const
+-function
+-function*
+-class
+export /import
+
+statemeats : no lo vamos a refenciar en un futuro
+
+
+Expression: cual linea de codigo que evalue en un valor
+
+
+consolte.log (let ,const, for int) no lo permirte es una declacion
+si lo permirte es una expresion
+
+
+
+OPERADORES EN Javascript
+
+OPERADORES ----> CREAR EXPRESIONES ---->  CREAR ALGORITMOS ----> CREAR SOLUCIONES 
+
+
+
+OPERADORES
+
+-Aritmeticos
+-Asignacion
+-Comparacion
+-logicos 
+-Bitwise

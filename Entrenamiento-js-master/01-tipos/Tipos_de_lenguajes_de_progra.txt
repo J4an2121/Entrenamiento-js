@@ -1,0 +1,16 @@
+    Tipado Estatico :
+
+    El tipo de cada variable se revisa antes de ejecutar el programa.
+    Más seguro, menos errores.
+    Lenguajes: Java, C, C++, C#, Go.
+
+
+
+    Tipado Dinamico :
+
+    El tipo de cada variable se revisa mientras el programa se está ejecutando.
+    Más flexible, pero puede tener errores inesperados.
+    Lenguajes: Python, JavaScript, Ruby, PHP.
+
+
+
